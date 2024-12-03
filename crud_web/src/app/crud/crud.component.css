@@ -1,0 +1,20 @@
+.navbar{
+    background-color: rgb(16, 15, 71);
+}
+
+.navbar #navbarr{
+    display: flex;
+    justify-content: center; 
+}
+
+.navbar a{
+    color: white;
+    margin-left: 3%;
+}
+
+#bg{
+    background-image: url("/assets/LLAMALESS_ILLUS-55.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 95vh;
+}
